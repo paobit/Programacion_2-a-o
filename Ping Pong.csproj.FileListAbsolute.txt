@@ -1,0 +1,15 @@
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\bin\Debug\Ping Pong.exe.config
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\bin\Debug\Ping Pong.exe
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\bin\Debug\Ping Pong.pdb
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csprojAssemblyReference.cache
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping_Pong.Form1.resources
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping_Pong.Properties.Resources.resources
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csproj.GenerateResource.cache
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csproj.CoreCompileInputs.cache
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping Pong.exe
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping Pong.pdb
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping_Pong.juego.resources
+D:\MisDatos\Paola\Mis Documentos\UAI\Programacion\2do. cuatri\Proyectos\Ping Pong\Ping Pong\obj\Debug\Ping_Pong.MensajeBox.resources
+C:\Users\ponce\Downloads\proyectos (extract.me) (1)\Ping Pong\Ping Pong\obj\Debug\Ping Pong.csprojAssemblyReference.cache
+C:\Users\ponce\Downloads\proyectos (extract.me) (1)\Ping Pong\Ping Pong\obj\Debug\Ping Pong.exe
+C:\Users\ponce\Downloads\proyectos (extract.me) (1)\Ping Pong\Ping Pong\obj\Debug\Ping Pong.pdb
